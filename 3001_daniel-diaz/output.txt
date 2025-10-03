@@ -1,0 +1,5 @@
+3001 -  Sort benchmark: 
+Mode A : Input N (size of array), and N elements - Type A in first line
+Mode B : Input N (size of array), and seed - Type B in first line
+Bubble sort, comps=45, swaps=45, ms=0.001569
+Merge sort, comps=15, swaps=15, ms=0.007354
