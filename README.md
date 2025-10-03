@@ -102,7 +102,7 @@
   <li>7 u 8 mini-retos con nombres correctos: <code>300x_&lt;ALIAS&gt;_vN.(py|java|cpp)</code>.</li>
   <li>3 pruebas por archivo (en comentarios) y complejidad indicada.</li>
   <li>Si hiciste la app: <code>3900_&lt;ALIAS&gt;_app/</code> + <code>README.md</code> + <code>benchmarks.(csv|json)</code>.</li>
-  <li>PR: <code>&lt;ALIAS&gt; — Entrega Nivel Avanzado</code>.</li>
+  <li>PR: <code>&lt;ALIAS&gt; — Entregas Nivel Avanzado</code>.</li>
 </ul>
 
 <h2>Documentación</h2>
